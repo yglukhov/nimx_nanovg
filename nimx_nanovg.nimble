@@ -10,3 +10,5 @@ license       = "MIT"
 # Dependencies
 
 requires "nim >= 1.0.4"
+requires "opengl#head"
+requires "nanovg#head"
